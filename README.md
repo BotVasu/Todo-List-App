@@ -1,5 +1,7 @@
 # Todo-List-App
 
+<a href="https://todo-list-app-botvasu.netlify.app">Live <<< Link</a>
+
 Tech Stack: HTML, CSS, Javascript
 
 New in this project: To make use of browser's local storage.
