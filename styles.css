@@ -76,9 +76,6 @@ ul li{
 }
 
 
-
-
-
 ul li::before{
     content: '';
     position: absolute;
@@ -122,3 +119,8 @@ ul li span:hover{
 }
 
 
+.footer{
+    width: auto;
+    font-size: 18px;
+    text-align: center;
+}
